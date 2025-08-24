@@ -1,0 +1,4 @@
+emptyList = []
+print(emptyList)
+
+## Output: []
